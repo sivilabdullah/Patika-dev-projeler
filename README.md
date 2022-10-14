@@ -1,4 +1,6 @@
-# Patika-dev-projeler
+# Patika-dev-projeler 
+# https://app.patika.dev/abdullahs
+
 Patika.dev platformunda Swift İle iOS Programlama Patikası ogrenimlerinde yapilan projeler 
 
 [22,27,16,2,18,6] -> Insertion Sort
@@ -29,15 +31,21 @@ Best case: Aradığımız sayının dizinin en başında olması
 
 
 D.Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
+
 [2,6,16,18,22,27]=> Siralanmis dizi 
+
 Cevap : Aradigimiz sayi basta(best case) ve sonda(worse case) olmadigindan beklenilen durum olarak Average Case'dir 
 
 E.[7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
 1-)[2,3,5,8,7,9,4,15,6] -> 2 ile 7 sayısı yer değiştirdi 
+
 2-)[2,3,4,8,7,9,5,15,6] -> 5 ile 4 sayısı yer değiştirdi
+
 3-)[2,3,4,5,7,9,8,15,6] -> 8 ile 5 sayısı yer değiştirdi
+
 4-)[2,3,4,5,6,9,8,15,7] -> 6 ile 7 sayısı yer değiştirdi
+
 
 
 
