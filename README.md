@@ -1,6 +1,7 @@
 # Patika-dev-projeler 
 # https://app.patika.dev/abdullahs
 
+## Insert Sort Projesi
 Patika.dev platformunda Swift İle iOS Programlama Patikası ogrenimlerinde yapilan projeler 
 
 [22,27,16,2,18,6] -> Insertion Sort
